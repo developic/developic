@@ -1,0 +1,33 @@
+name: 🔄 Update Live System Status
+
+on:
+  schedule:
+    - cron: '0 * * * *'  # runs every hour
+  workflow_dispatch:
+
+jobs:
+  update-status:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: 3.11
+
+      - name: Install dependencies
+        run: pip install requests
+
+      - name: Generate live status badges
+        run: python .github/scripts/generate_status.py
+
+      - name: Commit and push badges
+        run: |
+          git config --global user.name "developic-bot"
+          git config --global user.email "actions@github.com"
+          git add .github/data/*.json
+          git commit -m "🔄 Update live system badges" || echo "No changes"
+          git push
