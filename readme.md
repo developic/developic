@@ -84,11 +84,10 @@ Motto:       "In code we trust, in firewalls we hope."
 
 ## 🧬 Live System Status
 <p align="center">
-  <img src="https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/developic/developic/main/.github/data/status.json&style=for-the-badge&logo=linux&logoColor=FABD2F"/>
-  <img src="https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/developic/developic/main/.github/data/uptime.json&style=for-the-badge&logo=clock&logoColor=FABD2F"/>
-  <img src="https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/developic/developic/main/.github/data/ping.json&style=for-the-badge&logo=wifi&logoColor=FABD2F"/>
-  <img src="https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/developic/developic/main/.github/data/memory.json&style=for-the-badge&logo=memory&logoColor=FABD2F"/>
-  <img src="https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/developic/developic/main/.github/data/visitors.json&style=for-the-badge&logo=eye&logoColor=FABD2F"/>
+  <img src="https://img.shields.io/endpoint?url=https://api.devinsights.io/github/status/developic&style=for-the-badge&label=SYSTEM%20STATUS&color=D79921&logo=linux&logoColor=FABD2F"/>
+  <img src="https://img.shields.io/endpoint?url=https://api.devinsights.io/github/uptime/developic&style=for-the-badge&label=UPTIME&color=98971A&logo=clock&logoColor=FABD2F"/>
+  <img src="https://komarev.com/ghpvc/?username=developic&label=VISITORS&color=FABD2F&style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/PING-24ms-458588?style=for-the-badge&logo=wifi&logoColor=FABD2F"/>
 </p>
 
 ```bash
