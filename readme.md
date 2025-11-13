@@ -9,7 +9,7 @@
 - Life, projects, and my terminal are all chaotic, caffeinated, and unpredictable. Welcome to my messy world.  
 - I'm quite skilled with <img src="https://i.imgur.com/Xjb867j.png" alt="JavaScript" width="16" height="16"/> JavaScript, <img src="https://i.imgur.com/eZxBcrA.png" alt="NodeJS" width="16" height="16"/> [NodeJS](https://nodejs.org/), <img src="https://www.typescriptlang.org/favicon-32x32.png" alt="TypeScript" width="16" height="16"/> TypeScript, and <img src="https://raw.githubusercontent.com/brand-icons/brands/66a515d0afc1bdf9cd308a9ae8d85e1bd23a4d97/icons/color/python.svg" alt="Python" width="16" height="16"/> [Python](https://www.python.org/)  
 - I can read and understand some code written in <img src="https://i.imgur.com/qgdFuhG.png" alt="C++" width="16" height="16"/> C++  
-- I'm currently learning <img src="https://go.dev/images/favicon-gopher.png" alt="Go" width="16" height="16"/> [Go](https://go.dev/), <img src="https://rust-lang.org/static/images/favicon.svg" alt="Rust" width="16" height="16"/> [Rust](https://rust-lang.org/static/images/favicon.svg" alt="C#" width="16" height="16"/> C#
+- I'm currently learning <img src="https://go.dev/images/favicon-gopher.png" alt="Go" width="16" height="16"/> [Go](https://go.dev/), <img src="https://rust-lang.org/static/images/favicon.svg" alt="Rust" width="16" height="16"/> [Rust](https://rust-lang.org/), and <img src="https://dotnet.microsoft.com/favicon.ico" alt="C#" width="16" height="16"/> C#
 
 <p align="center">
   <img src="https://img.shields.io/badge/Python-D79921?style=for-the-badge"/>
@@ -67,8 +67,4 @@
 
 ---
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand%20Light%20Skin%20Tone.png" width="35"/> $\color{#FABD2F}{\textsf{Thanks for Reading!}}$
-
-<p align="center">
-  <b>☕ Powered by caffeine, Stack Overflow, and pure chaos ☕</b>
-</p>
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" width="35"/> $\color{#FABD2F}{\textsf{Thanks for Reading!}}$
