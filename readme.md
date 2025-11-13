@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://media.tenor.com/2vQ_o8fQUFQAAAAC/chubby-cute-cat-mad-angry.gif" width="600" alt="Banner Cat" />
+  <img src="images/chubby-cute.gif" width="600" alt="Banner Cat" />
 </p>
 
 ## 👨‍💻 About Me
