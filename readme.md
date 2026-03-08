@@ -25,12 +25,7 @@
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Fire.png" width="35"/> $\color{#458588}{\textsf{GitHub Stats}}$
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=developic&show_icons=true&theme=gruvbox&hide_border=true&count_private=true&bg_color=1a1a1a" height="170"/>
   <img src="https://github-readme-streak-stats-eight.vercel.app?user=developic&theme=gruvbox&hide_border=true&bg_color=1a1a1a" height="170"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=developic&layout=compact&theme=gruvbox&hide_border=true&bg_color=1a1a1a" height="160"/>
 </p>
 
 ---
